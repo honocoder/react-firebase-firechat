@@ -2,7 +2,7 @@
 
 This project is a simple real-time chat app to discover and train with Firebase.
 
-To see it live, visit
+To see it live, visit [this site](https://react-firebase-firechat.netlify.app/)
 
 ## Firebase
 
