@@ -1,4 +1,4 @@
-# Firebase - real-time chat app with React and Firebase
+# FireChat - real-time chat app with React and Firebase
 
 This project is a simple real-time chat app to discover and train with Firebase.
 
